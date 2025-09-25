@@ -1,1 +1,6 @@
-hello world
+---
+layout: home
+title: Home
+---
+
+My blog
