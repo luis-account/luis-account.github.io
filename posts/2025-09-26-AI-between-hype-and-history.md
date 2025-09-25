@@ -1,3 +1,8 @@
+---
+layout: post
+title: "AI, between hype and history"
+---
+
 ZHAW AI1 Module Blog Post
 
 # AI, between hype and history
