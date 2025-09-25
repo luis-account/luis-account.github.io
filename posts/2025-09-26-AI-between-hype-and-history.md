@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "AI, between hype and history"
+image: /assets/images/human-robot.jpg
 ---
 
 ZHAW AI1 Module Blog Post
 
-# AI, between hype and history
 The following blog post is documentation of what I learned from reading the article called “AI as normal technology” and how it shifted my perspective.
 
 The article presents the argument that AI is no more extraordinary than other technological innovations from the past. Just as electricity started with lighting but later transformed manufacturing and communication, AI started with chatbots but might eventually reshape how jobs with a lot of mental load are performed. But we are not there yet. It criticises how AI adoption is measured and that the time it takes for diffusion and application to happen, are being underestimated. Understanding the trend of technology is not just a matter of being right or wrong, it's about finding the right policies to govern such technological innovations the right way and thus enabling application where useful.
