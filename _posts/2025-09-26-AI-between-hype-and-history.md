@@ -26,4 +26,6 @@ For example the internet made it possible to access knowledge in much larger qua
 
 It’s tempting to think AI is magical, but in reality it’s just the next step in a long line of technologies that took decades to show their true value. Therefore I find it reasonable to argue that AI is normal technology. It seems to have a unique set of challenges in the short run and the hype around it is hiding the actual diffusion. But it bears huge potential in the long run. There is no point in fostering fear and calculating the probabilities of unlikely events but an opportunity to tackle many seemingly unsolvable problems.
 
+In the next five years, I expect governments and regulating bodies to play a larger role in regulating AI. The European Union’s AI Act is an early example of this trend. Whether AI’s progress mirrors past technologies will depend not just on innovation, but on how societies decide to govern it. If regulation is implemendted effeciently, AI can be a powerful enabler; if not, risks like misinformation and surveillance could dominate.
+
 *ZHAW AI1 Module Blog Post*
